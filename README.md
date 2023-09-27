@@ -9,16 +9,16 @@ The page contains a main container in which their is a navbar and an box with so
 The css has been applied by using the tailwind materials. <br>
 Cdn link --> <script src="https://cdn.tailwindcss.com"></script> <br>
 classes used for styling: <br>
--> mx-value
--> flex
--> flex-col/flex-row
--> px-value
--> justify-value
--> items-value
--> inline-flex
--> text-colorValue-textWeight
--> border-value
--> rounded
+-> mx-value<br>
+-> flex<br>
+-> flex-col/flex-row<br>
+-> px-value<br>
+-> justify-value<br>
+-> items-value<br>
+-> inline-flex<br>
+-> text-colorValue-textWeight<br>
+-> border-value<br>
+-> rounded<br>
 ****
 for small screens <br>
 <img width="487" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj29/assets/74525154/10daba82-1d1b-48bb-8a2b-e5255ac97905">
@@ -28,7 +28,7 @@ for small screens <br>
 <img width="474" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj29/assets/74525154/4f3eebd5-7ab1-4cff-9e29-7c8243b2f773">
 
 Classes used for responsive: <br>
--> md:property => for tab screens
+-> md:property => for tab screens<br>
 -> lg:property => for laptop screens <br>
 
 Priority for designing responsive=> small>tab>laptop
